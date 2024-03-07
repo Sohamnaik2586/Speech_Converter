@@ -57,8 +57,3 @@ We welcome contributions to improve and enhance the Text-to-Speech Converter web
 3. Make your changes and test them thoroughly.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial purposes.
-
-Thank you for using and contributing to the Text-to-Speech Converter website!
